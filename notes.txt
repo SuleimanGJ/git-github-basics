@@ -1,1 +1,6 @@
 Git stores project history
+
+
+Working directory
+Staging area
+Repository
