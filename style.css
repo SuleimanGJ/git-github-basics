@@ -6,3 +6,11 @@ body{
 h1{
     color:blue;
 }
+section {
+    width: 450px;
+    background: blue;
+}
+img {
+    width: 350px;
+}
+
