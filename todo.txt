@@ -1,1 +1,3 @@
 1. Finish homepage.
+
+2. Create About page.
