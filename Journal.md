@@ -9,3 +9,5 @@
 4. Practiced using git status.
 
 5. Learned how to stage files with git add.
+
+6. Made my first Git commit.
