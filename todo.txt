@@ -5,3 +5,5 @@
 3. Create Services page.
 
 4. Create Contact page.
+
+5. Add navigation menu.
