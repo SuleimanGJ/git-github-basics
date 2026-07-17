@@ -13,3 +13,5 @@
 7. Add hero image.
 
 8. Create image gallery.
+
+9. Make website responsive.
