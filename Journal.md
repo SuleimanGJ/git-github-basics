@@ -1,3 +1,5 @@
 # Learning Journal
 
 1. Started learning Git and repository management.
+
+2. Created my first local Git repository.
