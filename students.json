@@ -7,5 +7,6 @@
   { "id": 6, "name": "David", "age": 21 },
   { "id": 7, "name": "Fatima", "age": 22 },
   { "id": 8, "name": "Mohammed", "age": 24 },
-  { "id": 9, "name": "Hana", "age": 20 }
+  { "id": 9, "name": "Hana", "age": 20 },
+  { "id": 10, "name": "Nuur", "age": 23 }
 ]
