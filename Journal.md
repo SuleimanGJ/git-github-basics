@@ -25,3 +25,5 @@
 12. Learned how to organize project folders.
 
 13. Fixed small HTML mistakes.
+
+14. Continued making meaningful commits.
