@@ -17,3 +17,5 @@
 9. Make website responsive.
 
 10. Add footer section.
+
+11. Optimize images.
