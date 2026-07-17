@@ -23,3 +23,5 @@
 11. Improved the website layout using CSS.
 
 12. Learned how to organize project folders.
+
+13. Fixed small HTML mistakes.
