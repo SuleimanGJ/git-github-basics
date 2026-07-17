@@ -11,3 +11,5 @@
 6. Improve page colors.
 
 7. Add hero image.
+
+8. Create image gallery.
