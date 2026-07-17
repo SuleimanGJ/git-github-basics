@@ -27,3 +27,11 @@ th, td {
   padding-left: 30px;
   padding-right: 40px;
 }
+
+footer h1 {
+    padding: 20px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
