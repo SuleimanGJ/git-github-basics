@@ -25,3 +25,5 @@
 13. Improve typography.
 
 14. Update README.
+
+15. Push project to GitHub.
