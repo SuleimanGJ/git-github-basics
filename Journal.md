@@ -19,3 +19,5 @@
 9. Practiced editing multiple project files.
 
 10. Added images to the website.
+
+11. Improved the website layout using CSS.
