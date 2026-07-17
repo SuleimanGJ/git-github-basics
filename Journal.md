@@ -7,3 +7,5 @@
 3. Learned the difference between Git and GitHub.
 
 4. Practiced using git status.
+
+5. Learned how to stage files with git add.
