@@ -15,3 +15,5 @@
 8. Create image gallery.
 
 9. Make website responsive.
+
+10. Add footer section.
