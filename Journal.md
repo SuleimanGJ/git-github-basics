@@ -11,3 +11,5 @@
 5. Learned how to stage files with git add.
 
 6. Made my first Git commit.
+
+7. Updated my README with project information.
