@@ -3,3 +3,5 @@
 2. Create About page.
 
 3. Create Services page.
+
+4. Create Contact page.
