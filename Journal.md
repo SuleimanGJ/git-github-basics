@@ -17,3 +17,5 @@
 8. Learned how to view commit history.
 
 9. Practiced editing multiple project files.
+
+10. Added images to the website.
