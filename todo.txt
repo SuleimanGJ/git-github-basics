@@ -19,3 +19,5 @@
 10. Add footer section.
 
 11. Optimize images.
+
+12. Fix broken links.
