@@ -21,3 +21,5 @@
 11. Optimize images.
 
 12. Fix broken links.
+
+13. Improve typography.
