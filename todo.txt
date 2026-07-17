@@ -1,3 +1,5 @@
 1. Finish homepage.
 
 2. Create About page.
+
+3. Create Services page.
