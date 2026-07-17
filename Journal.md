@@ -15,3 +15,5 @@
 7. Updated my README with project information.
 
 8. Learned how to view commit history.
+
+9. Practiced editing multiple project files.
