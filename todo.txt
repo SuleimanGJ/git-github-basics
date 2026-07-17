@@ -9,3 +9,5 @@
 5. Add navigation menu.
 
 6. Improve page colors.
+
+7. Add hero image.
