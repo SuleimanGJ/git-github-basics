@@ -1,4 +1,5 @@
 [
   { "id": 1, "name": "Ali", "age": 20 },
-  { "id": 2, "name": "Sara", "age": 21 }
+  { "id": 2, "name": "Sara", "age": 21 },
+  { "id": 3, "name": "Ahmed", "age": 22 }
 ]
