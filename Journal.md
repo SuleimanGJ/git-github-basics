@@ -27,3 +27,5 @@
 13. Fixed small HTML mistakes.
 
 14. Continued making meaningful commits.
+
+15. Planning to learn Git branches next.
