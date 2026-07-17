@@ -5,3 +5,5 @@
 2. Created my first local Git repository.
 
 3. Learned the difference between Git and GitHub.
+
+4. Practiced using git status.
