@@ -21,3 +21,5 @@
 10. Added images to the website.
 
 11. Improved the website layout using CSS.
+
+12. Learned how to organize project folders.
