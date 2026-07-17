@@ -13,3 +13,5 @@
 6. Made my first Git commit.
 
 7. Updated my README with project information.
+
+8. Learned how to view commit history.
