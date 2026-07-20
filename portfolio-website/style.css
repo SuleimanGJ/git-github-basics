@@ -6,3 +6,40 @@
     margin: 0;
     line-height: 1.6;
 }
+
+/* Contact Form Style */
+fieldset {
+    margin: 20px auto;
+    max-width: 600px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 1);
+}
+legend {
+    font-weight: bold;
+    font-size: larger;
+}
+form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+form input#name, #email, #message, form textarea, form button {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+form button {
+    background: #f39c12;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: larger;
+}
+form button:hover {
+    background: #d35400;
+    cursor: pointer;
+}
