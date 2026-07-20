@@ -43,6 +43,12 @@ legend {
     font-size: larger;
 }
 
+form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
 
 footer h1 {
     padding: 20px;
