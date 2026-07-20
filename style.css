@@ -49,6 +49,14 @@ form label {
     font-weight: bold;
 }
 
+form input#name, #email, #message, form textarea, form button {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
 
 footer h1 {
     padding: 20px;
