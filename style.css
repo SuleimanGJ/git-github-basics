@@ -65,6 +65,10 @@ form button {
     font-size: larger;
 }
 
+form button:hover {
+    background: #d35400;
+    cursor: pointer;
+}
 
 footer h1 {
     padding: 20px;
