@@ -6,3 +6,26 @@
     margin: 0;
     line-height: 1.6;
 }
+
+/* Navigation Style */
+header nav 
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+}
+header nav a
+{
+    text-align: center;
+    color: black;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+header nav a:hover
+{
+    cursor: pointer;
+    border-bottom: 3px solid gray;
+}
